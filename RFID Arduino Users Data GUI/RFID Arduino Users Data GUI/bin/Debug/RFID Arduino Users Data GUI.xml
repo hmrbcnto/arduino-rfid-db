@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RFID Arduino Users Data GUI
+</name>
+</assembly>
+<members>
+<member name="T:RFID_Arduino_Users_Data_GUI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.avatar_2191932_1920">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.giphy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_Bin_2202256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_close15_216468">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_Computer__Computer_Hardware_USB_Port_Connection_4064143">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_icon_32_clipboard_edit_314288">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_refresh_01_186390">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_select_all_326691">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_user_half_edit_103775">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.iconfinder_user_profile_103780">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.images__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resources.images__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:RFID_Arduino_Users_Data_GUI.My.Resources.Resource1">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resource1.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resource1.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RFID_Arduino_Users_Data_GUI.My.Resources.Resource1.browse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

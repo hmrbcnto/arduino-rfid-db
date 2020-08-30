@@ -1,0 +1,18 @@
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\RFID Arduino Users Data GUI.exe.config
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\RFID Arduino Users Data GUI.exe
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\RFID Arduino Users Data GUI.pdb
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\RFID Arduino Users Data GUI.xml
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID_Arduino_Users_Data_GUI.Form1.resources
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID_Arduino_Users_Data_GUI.Resources.resources
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.exe
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.xml
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.pdb
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID_Arduino_Users_Data_GUI.Resource1.resources
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\MySql.Data.dll
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\bin\Debug\MySql.Data.xml
+C:\Users\Asus\source\repos\RFID Arduino Users Data GUI\RFID Arduino Users Data GUI\obj\Debug\RFID Arduino Users Data GUI.vbproj.CopyComplete
